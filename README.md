@@ -47,6 +47,8 @@ The goal was to simulate a realistic analyst workflow - from receiving a raw, me
 - Inconsistent casing across Region, Category, and Customer Segment columns
 - 145 missing Quantity values (~12.1% of rows)
 
+![Raw Data](screenshots/rawdata.png.png)
+
 ---
 
 ## Process Walkthrough
