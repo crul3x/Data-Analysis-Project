@@ -102,10 +102,16 @@ A standalone interactive dashboard built with AI assistance. Filterable by Regio
 
 ---
 
-## How to View the Dashboard
+### Conclusion
+This project demonstrates a complete data analytics workflow from raw messy data to structured analysis and an interactive dashboard. The cleaned dataset and paired table-chart format make it straightforward to identify performance gaps across regions, products, and sales reps - the kind of insights that would directly inform sales strategy, territory planning, and inventory decisions.
 
-**Option 1 - Live link (GitHub Pages)**
-[https://crul3x.github.io/DataAnalysis-Excel-Sheets/](https://crul3x.github.io/DataAnalysis-Excel-Sheets/)
+---
+
+### Contact
+Feel free to contact me via:
+
+Gmail : yash2601sharma2@gmail.com
+Linkedin : [https://www.linkedin.com/in/yash-sharma](https://www.linkedin.com/in/yash-sharma-841835278/)
 
 ---
 
