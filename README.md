@@ -1,4 +1,4 @@
-# Sales Performance Analysis - 2023
+# Sales Performance Analysis 
 
 ## AI Transparency Statement
 
@@ -64,7 +64,7 @@ All cleaning decisions were documented in the **Data Cleaning Log** sheet before
 - **Derived columns** - added `Revenue` (Quantity × Unit_Price), `Month`, `Month_Num`, `Quarter`
 - **Product Reference Table** - built a 15-SKU lookup table used as an XLOOKUP source throughout the analysis
 
-### Cleaned Data : [View Cleaned Data](https://docs.google.com/spreadsheets/d/18AY2mWcOMY0Ng6NvucAeSeqvxbjzwo8O/edit?gid=370987987#gid=370987987)
+### 1.1 Cleaned Data : [View Cleaned Data](https://docs.google.com/spreadsheets/d/18AY2mWcOMY0Ng6NvucAeSeqvxbjzwo8O/edit?gid=370987987#gid=370987987)
 
 ![Cleaned Data](screenshots/cleaneddata.png.png)
 
